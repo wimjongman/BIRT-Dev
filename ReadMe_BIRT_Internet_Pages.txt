@@ -13,3 +13,4 @@ Use:
 npm run start
 npm run build
 npm run serve
+cmd /C 'set "GIT_USER=chloetz" && yarn deploy'

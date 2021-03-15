@@ -5,13 +5,13 @@
 module.exports = {
   title: 'BIRT',
   tagline: 'Busines Inteligence Reporting Tool',
-  url: 'https://www.eclipse.org/birt/',
-  baseUrl: '/',
+  url: 'https://chloetz.github.io.',
+  baseUrl: '/BIRT-Dev/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Compex Systemhaus GmbH', // Usually your GitHub org/user name.
-  projectName: 'BIRT-Internet-Pages', // Usually your repo name.
+  organizationName: 'chloetz', // Usually your GitHub org/user name.
+  projectName: 'BIRT-Dev', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My SiteHome',
