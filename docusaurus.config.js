@@ -14,10 +14,10 @@ module.exports = {
   projectName: 'BIRT-Dev', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My SiteHome',
+      title: 'HOME',
       logo: {
         alt: 'BIRT',
-        src: 'img/BIRT-01.png',
+        src: 'img/BIRT-03.png',
       },
       items: [
         {
@@ -51,7 +51,7 @@ module.exports = {
         },          
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/chloetz/',
           label: 'GitHub',
           position: 'right',
         },
@@ -111,13 +111,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/chloetz/BIRT-Dev/edit/master/website/',
+            'https://github.com/chloetz/BIRT-Dev/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/chloetz/BIRT-Dev/master/website/blog/',
+            'https://github.com/chloetz/BIRT-Dev/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

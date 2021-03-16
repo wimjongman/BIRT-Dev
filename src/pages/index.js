@@ -15,7 +15,7 @@ const features = [
     imageUrl: 'img/BIRT_Home-Left.png',
     description: (
       <>
-        This ist the About text
+        What is BIRT? Get an overview what BIRT is all about: architecture, philosophy, customization, extensibility, and much more... 
       </>
     ),
   },
@@ -24,7 +24,7 @@ const features = [
     imageUrl: 'img/Lets-get-startd.jfif',
     description: (
       <>
-        Get started Homepage
+        Download and get started. Create your first report and find even more examples...
       </>
     ),
   },
@@ -33,7 +33,7 @@ const features = [
     imageUrl: 'img/Documentation.svg',
     description: (
       <>
-        Documentation Homepage
+        You want to dive deep inside BIRT. Read the Documentation where you will finde all information you need.
       </>
     ),
   },
@@ -48,8 +48,8 @@ function Feature({imageUrl, title, description}) {
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
-      <h3>{title}</h3>
-      <p>{description}</p>
+      <h3 class="text--center">{title}</h3>
+      <p class="text--center">{description}</p>
     </div>
   );
 }
@@ -59,14 +59,14 @@ export default function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`BIRT ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}
           </p>
-          With BIRT you can create data visualizations, dashboards and reports <br/>that can be embedded into web applications and rich clients.<p></p>
+          With BIRT you can create data visualizations, dashboards and reports <br/>that can be embedded into web applications and rich clients. Make information out of your data! <p></p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
