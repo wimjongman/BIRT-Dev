@@ -12,16 +12,16 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'About',
-    imageUrl: 'img/BIRT_Home-Left.png',
+    imageUrl: 'img/BIRT-Arguments-01.svg',
     description: (
       <>
-        What is BIRT? Get an overview what BIRT is all about: architecture, philosophy, customization, extensibility, and much more... 
+        What is BIRT? Get an overview what BIRT is all about: architecture, customization, extensibility, and much more... 
       </>
     ),
   },
   {
     title: 'Get started',
-    imageUrl: 'img/Lets-get-startd.jfif',
+    imageUrl: 'img/BIRT-Get-Started-01.svg',
     description: (
       <>
         Download and get started. Create your first report and find even more examples...
@@ -30,10 +30,10 @@ const features = [
   },
   {
     title: 'Documentation',
-    imageUrl: 'img/Documentation.svg',
+    imageUrl: 'img/BIRT-Documentation-01.svg',
     description: (
       <>
-        You want to dive deep inside BIRT. Read the Documentation where you will finde all information you need.
+        You want to dive deep inside BIRT. Read the Documentation where you will find all information you need.
       </>
     ),
   },

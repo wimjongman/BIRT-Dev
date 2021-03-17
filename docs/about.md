@@ -4,7 +4,7 @@ title: About-zu ersetzen
 sidebar_label: About
 ---
 
-## The Project
+## The Project in Progress
 
 BIRT is an open source software project that provides the BIRT technology platform to create data visualizations and reports that can be embedded into rich client and web applications, especially those based on Java. BIRT is a top-level software project within the Eclipse Foundation, an independent not-for-profit consortium of software industry vendors and an open source community.
 

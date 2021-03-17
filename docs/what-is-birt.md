@@ -1,16 +1,23 @@
 ---
 id: what-is-birt
 title: What is BIRT?
-sidebar_label: What is BIRT
+sidebar_label: What is BIRT?
 ---
 
 ## The Project
 
-BIRT is an open source software project that provides the BIRT technology platform to create data visualizations and reports that can be embedded into rich client and web applications, especially those based on Java. BIRT is a top-level software project within the Eclipse Foundation, an independent not-for-profit consortium of software industry vendors and an open source community.
+BIRT is an open source software project that provides the BIRT technology platform to create data visualizations and reports that can be embedded into rich client and web applications, especially those based on Java. BIRT is a top-level software project within the Eclipse Foundation.
 
-The project is sponsored by Compex Systemhaus GmbH, Heidelberg, Germany, and $$$ along with contributions from Actuate, IBM, and Innovent Solutions. BIRT is supported by an active community of users here at Eclipse.org. It is licensed under the Eclipse Public License (EPL).
+BIRT is supported by an active community of committers, contributers and users here at Eclipse.org. BIRT is also supported by the Open Standard Business Platform Project (OSBP) and its Open Standard Business Application Working Group (OSbea).
 
-Project Organization | Project Development Plan
+The project is sponsored by Compex Systemhaus GmbH, Heidelberg, Germany, and **$$$---Win and Scott and ??? ---**. BIRT was origanaly initiated and sponsored by Actuate with contributions from IBM, and Innovent Solutions.  It is licensed under the Eclipse Public License (EPL).
+
+
+[![Compex](/img/Logo-Compex.png 'Compex Systemhaus GmbH, Heidelberg, Germany')](https://www.compex-commerce.com)
+
+![img](/img/Logo-Actuate-Opentext.png)
+
+![img](/img/Logo-Innovent-Solution.png)
 
 ## The Groundswell
 
@@ -35,7 +42,7 @@ BIRT designs are persisted as XML and can access a number of
 different data sources including JDO datastores, JFire Scripting
 Objects, POJOs, SQL databases, Web Services and XML.
 
-[Learn more about BIRT Architecture](https://www.eclipse.org/birt/about/architecture.php)
+[Learn more about BIRT Architecture](overview-architecture)
 
 ## The Philosophy
 
@@ -43,7 +50,7 @@ BIRT is about open standards (see also the Eclipse project Open Standard Busines
 environment. BIRT represents a commitment to the highest standards in
 software design and quality.
 
-[Learn More](https://www.eclipse.org/birt/about/design.php)
+[Learn More](overview-design)
 
 ## Design Overview
 
@@ -54,7 +61,7 @@ In this section, you'll get an overview of what a BIRT design is, including:
 
 *   The Anatomy of a Report
 
-[Learn More](https://www.eclipse.org/birt/about/design.php)
+[Learn More](overview-design)
 
 ## Architecture Overview
 
@@ -64,13 +71,13 @@ In this section, you'll get an overview of the BIRT architecure. Topics included
 
 *   Architecture Diagram
 
-#### [Learn More](https://www.eclipse.org/birt/about/architecture.php)
+[Learn More](overview-architecture)
 
 ## Designer Overview
 
 This section will take you through a quick tour of the BIRT Designer.
 
-[Learn More](https://www.eclipse.org/birt/about/designer.php)
+[Learn More](overview-designer)
 
 ## Customization Overview
 
@@ -92,7 +99,7 @@ In this section, you'll get an overview of some different ways to customize your
 
 *   Internationalization
 
-#### [Learn More](https://www.eclipse.org/birt/about/customization.php)
+[Learn More](overview-customization)
 
 ## Extensibility Overview
 
@@ -110,29 +117,7 @@ what parts of BIRT can be extended. The topics included are:
 
 *   Output Formats
 
-#### [Learn More](https://www.eclipse.org/birt/about/extensibility.php)
-
-## Project Organization
-
-This section contains information about many different aspects
-of the BIRT project, like committee members, how to contribute, etc.
-Topics include:
-
-*   Project Organization
-
-*   About the BIRT Project
-
-*   Getting Help Using BIRT
-
-*   Project Resources
-
-*   Project Processes
-
-*   PMC Minues
-
-*   Projects
-
-[Learn More](https://www.eclipse.org/birt/about/project-organization/)
+[Learn More](overview-extensibility)
 
 ## Project Development Plan
 

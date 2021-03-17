@@ -11,6 +11,8 @@ BIRT is an Eclipse-based open source reporting tool for web applications, especi
 + a report designer based on Eclipse, and 
 + a runtime component that you can add to your app server. 
 
+![img](/img/BIRT-Image-01.png)
+
 BIRT also offers a charting engine that lets you add charts to your own application.
 
 We encourage you to download BIRT, try it, and give us your feedback though the forums, newsgroup and Bugzilla.

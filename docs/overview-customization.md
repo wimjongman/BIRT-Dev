@@ -6,6 +6,8 @@ sidebar_label: Customization
 ## Data Customization
 Reports often require additional business logic to prepare data for presentation. BIRT provides a number of tools to help:
 
+![img](/img/BIRT-Image-03.png)
+
 + Computed Columns - Databases organize data for storage, but often data must be combined to prepare it for presentation. Computed columns let you define additional data set columns based on business logic. The logic can be a simple expression, a script, or a call to existing Java logic.
 
 + Input and Output Parameters - Many data sources support parameters: the ability to pass data into or out of a query. For example, SQL Select statements can include input parameters. Stored procedures can have both input and output parameters.

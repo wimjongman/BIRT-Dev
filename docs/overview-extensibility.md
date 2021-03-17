@@ -9,6 +9,8 @@ The spectrum of reporting applications is enormous, and the BIRT team can never 
 ## Data Access
 BIRT uses the Data Tools Open Data Access (ODA) framework for adding custom data access methods. Data access extensions include a runtime component for getting the data. They can also include custom design-time UI for building a custom query. For example, a packaged application vendor can use ODA to build data access UI that works with the vendor's own data model.
 
+![img](/img/BIRT-Image-04.png)
+
 ## Report Items
 BIRT provides a solid set of report items for presenting data. Applications that have specific needs can create additional report items that work within the designer and engine just like BIRT's own report items. For example, a performance management application might add report items that display stop lights, gauges and other visual indications of performance metrics.
 

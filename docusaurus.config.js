@@ -81,9 +81,21 @@ module.exports = {
               href: 'https://www.eclipse.org/',
             },
             {
-              label: 'OSBP Project',
-              href: 'https://www.eclipse.org/osbp/',
+              label: 'Privacy policy',
+              href: 'http://www.eclipse.org/legal/privacy.php',
             },
+            {
+              label: 'Website terms of use',
+              href:  'http://www.eclipse.org/legal/termsofuse.php',
+            },
+            {
+              label: 'Copyright agent',
+              href:  'http://www.eclipse.org/legal/copyright.php',
+            },
+            {
+                label: 'Legal',
+                href:  'http://www.eclipse.org/legal',
+            },  
           ],
         },
         {
@@ -100,6 +112,11 @@ module.exports = {
           ],
         },
       ],
+      logo: {
+        alt: 'FlexIt Logo',
+        src: '/img/Flex-X-small.png',
+        href: 'https://flexitanalytics.com/',
+      },
       copyright: `Copyright © ${new Date().getFullYear()} Eclipse Foundation. All Rights Reserved.`,
     },
   },
