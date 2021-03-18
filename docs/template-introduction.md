@@ -4,10 +4,23 @@ title: Templates & Examples
 sidebar_label: Templates & Examples
 ---
 
-Welcome to the examples section of the BIRT site. Here you will find examples that illustrate some of the features of BIRT. This section will be changed frequently to add new examples. The example types are classified below. Feel free to make comments within the news group. Let us know what examples you would like to see.
+Welcome to the examples section of the BIRT site. Here you will find examples that illustrate some of the features of BIRT. This section will be changed frequently to add new examples. The example types are classified below. 
 
-## BIRT Demo
-BIRT Demo - This demonstration is a Flash presentation of BIRT that showcases some of its powerful features including summary and line graphs, JavaScript for dynamic images, style usage, highlighting, grouping and detail drill down..
+BIRT Demo - This demonstration is a Flash presentation of BIRT that showcases some of its powerful features including summary and line graphs, JavaScript for dynamic images, style usage, highlighting, grouping and detail drill down.
+
+## How to proceed
+
+If you get stuck as you work through the tutorials, or if you want to see the finished report right away, simply download it:
+
+*    Use your browser to download the report: customers.rptdesign.
+
+*    Save the file into an Eclipse project directory. (See the next page if you don't yet have a project.)
+
+*    Your browser may store this as an XML file. If so, rename it back the the name above.
+
+*    Within Eclipse, select your project in the Navigator view and choose Refresh from the right-click context menu.
+
+*    Double-click the report to open it in the BIRT report designer.
 
 ## Examples
 If a preview exists, you can see it by clicking on the title link. To try a report for yourself, click on the rptdesign link to display the ROM file, save it to disk and then use File-->Import to bring the file into your Eclipse workspace. If the report uses the Classic Models database, you should be able to run the report immediately. If the report uses another database, follow the instructions provided in the "Other Notes" section of its description. If there is a demo or other downloads required, there will also be a link for those with the .rptdesign download link.

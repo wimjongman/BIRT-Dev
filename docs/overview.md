@@ -22,7 +22,7 @@ This guide will take you through the BIRT installation process. The topics inclu
 
 *   Common Problems
 
-[Learn More](https://www.eclipse.org/birt/documentation/install.php)
+[Learn More](installation.md)
 
 ## Design Tutorial
 

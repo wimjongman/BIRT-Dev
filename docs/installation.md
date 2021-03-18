@@ -4,6 +4,19 @@ title: Installation
 sidebar_label: Installation
 ---
 
+## Download
+
+BIRT has a design and runtime component. Both can be found in several different forms and versions, on the [download](//download.eclipse.org/birt/downloads/drops/) page.
+
+Once you've downloaded your BIRT component, you need to install it. For instructions please continue reading...
+
+If you have not yet done so, install Eclipse, GEF, EMF and BIRT. You'll find complete instructions for doing so on the BIRT Install page.
+Open BIRT
+
+BIRT is a perspective within Eclipse. To open it, use the Window item on the Eclipse main menu. Choose Open Perspective, then Report Design. If report Design does not appear directly in the Open Perspective window, then choose Other... A list of perspectives will appear. Choose Report Design.
+
+Eclipse will switch to display the BIRT perspective.
+
 ## Designer Install
 
 BIRT can be downloaded and installed in different ways:
@@ -59,7 +72,7 @@ If you have a version of BIRT installed, and want to install a newer version, do
 
 *    Restart Eclipse with the -clean option: eclipse -clean
 
-## Deploying to a Java EE Sever
+## Deploying to a Java Sever
 
 Please see Setting up the BIRT Viewer.
 Installing BIRT Language Packs on Windows

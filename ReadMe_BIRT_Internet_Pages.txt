@@ -6,7 +6,11 @@ Footer:    docusaurus.config.js
 Sidebar  : sidebars.js Menu of files in doc
 Home Page: src/pages/index.js
 
+Youtube Video
+<iframe src="//www.youtube.com/embed/nYkdrAPrdcw?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&start=621" frameborder="0" allowfullscreen width="100%"></iframe>
 
+Link
+Text befor Link [Text as Link](//www.youtube.com/watch?v=Kdr_LeHjIH8)
 
 Use:
 

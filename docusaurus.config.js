@@ -3,6 +3,7 @@
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  
   title: 'BIRT',
   tagline: 'Busines Inteligence Reporting Tool',
   url: 'https://chloetz.github.io.',
@@ -27,9 +28,9 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/getting-started',
-          activeBasePath: 'docs/getting-started',
-          label: 'Get Started',
+          to: 'docs/installation',
+          activeBasePath: 'docs/installation',
+          label: 'Get started',
           position: 'left',
         },
         {
@@ -39,13 +40,19 @@ module.exports = {
           position: 'left',
         },
         {
+          to: 'docs/template-introduction',
+          activeBasePath: 'docs/template-introduction',
+          label: 'Templates',
+          position: 'left',
+        },
+        {
           href: 'https://www.eclipse.org/osbp/OS-bea-WG.html',
           label: 'Working Group',
           position: 'left',
         },        
         {
           to: 'docs/community',
-          activeBasePath: 'docs/community',
+          activeBasePath: 'community',
           label: 'Community',
           position: 'left',
         },          

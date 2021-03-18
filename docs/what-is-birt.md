@@ -50,8 +50,6 @@ BIRT is about open standards (see also the Eclipse project Open Standard Busines
 environment. BIRT represents a commitment to the highest standards in
 software design and quality.
 
-[Learn More](overview-design)
-
 ## Design Overview
 
 In this section, you'll get an overview of what a BIRT design is, including:
@@ -119,8 +117,3 @@ what parts of BIRT can be extended. The topics included are:
 
 [Learn More](overview-extensibility)
 
-## Project Development Plan
-
-On this page, you'll find links to Project Plans for the version(s) of BIRT currently in Development.
-
-[Learn More](https://wiki.eclipse.org/BIRT_Project_Plan)
