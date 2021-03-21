@@ -6,7 +6,7 @@ sidebar_label: Sample Database
 
 The BIRT sample database provides a simple set of tables and data that form the basis for BIRT sample reports. The schema is for Classic Models, a retailer of scale models of classic cars. The database contains typical business data such as customers, orders, order line items, products and so on. It was designed to illustrate many of the features of the BIRT report designer.
 
-The sample database is open source; you are free to use it for your own use to experiment with other tools; to create samples for other tools, etc. The sample database is provided under the terms Eclipse.org Software User Agreement.
+The sample database is open source; you are free to use it for your own use to experiment with other tools; to create samples for other tools, etc. The sample database is provided under the terms Eclipse.
 
 ## Schema
 The database consists of eight tables:
@@ -26,7 +26,10 @@ The database consists of eight tables:
 + Products: The list of scale model cars
 
 + Product Lines: The list of product line classifcation
-This ER-diagram shows the table structure and relationships. (PDF version)
+
+This [ER-diagram (PDF version)](https://www.eclipse.org/birt/resources/documentation/sample-database/ClassicModelsDBSchema.pdf) shows the table structure and relationships. 
+
+
 
 ## Install
 

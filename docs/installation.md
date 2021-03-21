@@ -34,7 +34,7 @@ Create a Windows Shortcut
 
 *    From the desktop, right click, choose New -> Shortcut.
 
-*    For location, enter "C:\Program Files\eclipse\eclipse.exe" (without quotes.)*
+*    For location, enter "C:\Program Files\eclipse\eclipse.exe" (without quotes)
 
 *   Click Next
 

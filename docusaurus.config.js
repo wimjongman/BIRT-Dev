@@ -10,7 +10,7 @@ module.exports = {
   baseUrl: '/BIRT-Dev/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/BIRT-Icon.ico',
   organizationName: 'chloetz', // Usually your GitHub org/user name.
   projectName: 'BIRT-Dev', // Usually your repo name.
   themeConfig: {
@@ -46,22 +46,11 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://www.eclipse.org/osbp/OS-bea-WG.html',
-          label: 'Working Group',
-          position: 'left',
-        },        
-        {
           to: 'docs/community',
           activeBasePath: 'community',
           label: 'Community',
           position: 'left',
         },          
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/chloetz/',
-          label: 'GitHub',
-          position: 'right',
-        },
       ],
     },
     footer: {
@@ -119,11 +108,6 @@ module.exports = {
           ],
         },
       ],
-      logo: {
-        alt: 'FlexIt Logo',
-        src: '/img/Flex-X-small.png',
-        href: 'https://flexitanalytics.com/',
-      },
       copyright: `Copyright © ${new Date().getFullYear()} Eclipse Foundation. All Rights Reserved.`,
     },
   },
