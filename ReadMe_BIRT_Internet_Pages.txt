@@ -8,7 +8,6 @@ Use:
 npm run start
 npm run build
 npm run serve
-cmd /C 'set "GIT_USER=chloetz" && yarn deploy'
 
 
 
@@ -240,7 +239,9 @@ Colons can be used to align columns.
 | col 2 is      |   centered    |   \$12 |
 | zebra stripes |   are neat    |    \$1 |
 
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+There must be at least 3 dashes separating each header cell. 
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
 
 | Markdown | Less      | Pretty     |
 | -------- | --------- | ---------- |
@@ -283,35 +284,19 @@ This line is also a separate paragraph, but... This line is only separated by a 
 
 ## Admonitions
 
-:::note
-
-This is a note
-
+:::tip pro tip
+`remark-admonitions` is pretty great!
 :::
+
+:::note
 
 :::tip
 
-This is a tip
-
-:::
-
 :::important
-
-This is important
-
-:::
 
 :::caution
 
-This is a caution
-
-:::
-
 :::warning
-
-This is a warning
-
-:::
 
 
 ## Video Youtube
@@ -352,3 +337,24 @@ This is a warning
           label: 'GitHub',
           position: 'right',
         },
+
+## Use of HTML in MD file
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+<Highlight color="#25c2a0">Docusaurus green</Highlight> and
+ <Highlight color="#1877F2">Facebook blue</Highlight> are my favorite colors.
+
+I can write **Markdown** alongside my _JSX_!
+
+
