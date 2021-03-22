@@ -9,6 +9,7 @@ npm run start
 npm run build
 npm run serve
 
+cmd /C 'set "GIT_USER=chloetz" && yarn deploy'
 
 
 Main Menu: docusaurus.config.js

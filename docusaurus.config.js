@@ -6,8 +6,8 @@ module.exports = {
   
   title: 'BIRT',
   tagline: 'Busines Inteligence Reporting Tool',
-  url: 'https://chloetz.github.io.',
-  baseUrl: '/BIRT-Dev/',
+  url: 'https://chloetz.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/BIRT-Icon.ico',
