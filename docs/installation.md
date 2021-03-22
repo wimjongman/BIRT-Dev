@@ -6,7 +6,11 @@ sidebar_label: Installation
 
 ## Download
 
-BIRT has a design and runtime component. Both can be found in several different forms and versions, on the [download](//download.eclipse.org/birt/downloads/drops/) page.
+BIRT has a design and runtime component. Both can be found in several different forms and versions. Find what you need at: 
+
+:::tip
+Find what you need at: [**github download page**](https://github.com/eclipse/birt).
+:::
 
 Once you've downloaded your BIRT component, you need to install it. For instructions please continue reading...
 

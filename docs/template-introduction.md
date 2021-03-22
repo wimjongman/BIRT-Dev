@@ -10,7 +10,11 @@ Welcome to the example and template section of the BIRT site. Here you will find
 
 If you get stuck as you work through the tutorials, or if you want to see the finished report and its template right away, 
 
+
+:::tip
 **you can simply download all reports and their templates [here](../template-download).**
+:::
+
 
 After you have downloaded the reports and tempates, you can see them by clicking on corresponding html-file. 
 

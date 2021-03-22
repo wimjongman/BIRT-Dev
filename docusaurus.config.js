@@ -12,7 +12,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/BIRT-Icon.ico',
   organizationName: 'chloetz', // Usually your GitHub org/user name.
-  projectName: 'BIRT-Dev', // Usually your repo name.
+  projectName: 'BIRT', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'HOME',
@@ -43,6 +43,12 @@ module.exports = {
           to: 'docs/template-introduction',
           activeBasePath: 'docs/template-introduction',
           label: 'Templates',
+          position: 'left',
+        },
+        {
+          to: 'docs/gallery',
+          activeBasePath: 'docs/gallery',
+          label: 'Gallery',
           position: 'left',
         },
         {

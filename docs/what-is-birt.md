@@ -17,9 +17,9 @@ The project is sponsored by Compex Systemhaus GmbH, Heidelberg, Germany, and **$
 
 [![Compex](/img/Logo-Compex.png 'Compex Systemhaus GmbH, Heidelberg, Germany')](https://www.compex-commerce.com)
 
-![img](/img/Logo-Actuate-Opentext.png)
-
 ![img](/img/Logo-Innovent-Solution.png)
+
+![img](/img/Logo-Actuate-Opentext.png)
 
 ## The Groundswell
 
