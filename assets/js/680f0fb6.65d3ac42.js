@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{100:function(e){e.exports=JSON.parse('{"allTagsPath":"/BIRT-Dev/blog/tags","slug":"os-bee","name":"os.bee","count":1,"permalink":"/BIRT-Dev/blog/tags/os-bee"}')}}]);
