@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[55],{126:function(a){a.exports=JSON.parse('{"allTagsPath":"/BIRT-Dev/blog/tags","slug":"birt","name":"birt","count":1,"permalink":"/BIRT-Dev/blog/tags/birt"}')}}]);
