@@ -1,7 +1,7 @@
 /// Compex Systemhaus GmbH, Heidelberg, Germany
 /// Loetz GmbH & Co KG, Heidelberg, Germany
 
-
+package... dirt-dev mit birt-dev ersetzt
 
 Use:
 
@@ -9,8 +9,9 @@ npm run start
 npm run build
 npm run serve
 
-cmd /C 'set "GIT_USER=chloetz" && yarn deploy'
+cmd /C 'set "GIT_USER=chloetz" "USE_SSH=true" && yarn deploy'
 
+GIT_USER=<chloetz> USE_SSH=true yarn deploy
 
 Main Menu: docusaurus.config.js
 Footer:    docusaurus.config.js

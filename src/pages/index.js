@@ -58,12 +58,18 @@ export default function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
-    <Layout
+    <Layout permalink={'/'}
       title={`BIRT ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      description="BIRT Home Page, Eclipse Project <head />">
+      <header className={clsx('hero hero--secondary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
+
+        <img
+            className={clsx(styles.heroBannerLogo, 'margin-vert--md')}
+            alt="Create React App logo"
+            src={useBaseUrl('/img/BIRT-logo.png')}
+          />
+          
           <p className="hero__subtitle">{siteConfig.tagline}
           </p>
           With BIRT you can create data visualizations, dashboards and reports <br/>that can be embedded into web applications and rich clients. Make information out of your data! <p></p>

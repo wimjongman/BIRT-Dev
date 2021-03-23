@@ -7,12 +7,12 @@ module.exports = {
   title: 'BIRT',
   tagline: 'Busines Inteligence Reporting Tool',
   url: 'https://chloetz.github.io',
-  baseUrl: '/',
+  baseUrl: '/BIRT-Dev/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/BIRT-Icon.ico',
   organizationName: 'chloetz', // Usually your GitHub org/user name.
-  projectName: 'BIRT', // Usually your repo name.
+  projectName: 'BIRT-Dev', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'HOME',
@@ -125,7 +125,8 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/chloetz/BIRT-Dev/',
+            '/',
+            //https://github.com/chloetz/BIRT-Dev/
         },
         blog: {
           showReadingTime: true,

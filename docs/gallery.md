@@ -4,7 +4,7 @@ title: Gallery
 sidebar_label: Gallery
 ---
 
-Find some examples, case studies, Eclipse projects which make use of BIRT below:
+Find some examples, case studies, Eclipse projects which make use of BIRT:
 
 ## Eclipse Project Open Standard Business Platform (OSBP)
 
