@@ -1,6 +1,6 @@
-// Compex Systemhaus GmbH, Heidelberg, Germany
-// Loetz GmbH & Co KG
-
+/// Compex Systemhaus GmbH, Heidelberg, Germany
+/// Loetz GmbH & Co KG
+///
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   

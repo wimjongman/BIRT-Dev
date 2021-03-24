@@ -1,5 +1,6 @@
 /// Compex Systemhaus GmbH, Heidelberg, Germany
 /// Loetz GmbH & Co KG, Heidelberg, Germany
+///
 
 package... dirt-dev mit birt-dev ersetzt
 
@@ -359,4 +360,22 @@ export const Highlight = ({children, color}) => (
 
 I can write **Markdown** alongside my _JSX_!
 
+
+##
+
+Text Editor
+https://jpuri.github.io/react-draft-wysiwyg/#/
+
+## MDX
+
+https://mdxjs.com/
+
+
+## react
+https://www.w3schools.com/react/react_getstarted.asp
+
+
+
+## Slide show
+https://github.com/gnab/remark
 

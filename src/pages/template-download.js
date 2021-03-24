@@ -1,5 +1,5 @@
 /// Compex Systemhaus GmbH, Heidelberg, Germany
-/// Loetz GmbH & Co KG
+/// Loetz GmbH & Co KG, Heidelberg, Germany
 
 import React from 'react';
 import clsx from 'clsx';
@@ -78,7 +78,7 @@ function Hello() {
             </nav>
         </div>
       </div>
-</Layout>
+  </Layout>
   );
 }
 

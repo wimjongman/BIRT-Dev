@@ -1,5 +1,8 @@
 /// Compex Systemhaus GmbH, Heidelberg, Germany
-/// Loetz GmbH & Co KG
+/// Loetz GmbH & Co KG, Heidelberg, Germany
+///
+/// This is the Homepage of BIRT
+///
 
 import React from 'react';
 import clsx from 'clsx';

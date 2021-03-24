@@ -1,6 +1,6 @@
-// Compex Systemhaus GmbH, Heidelberg, Germany
-// Loetz GmbH & Co KG
-
+/// Compex Systemhaus GmbH, Heidelberg, Germany
+/// Loetz GmbH & Co KG, Heidelberg, Germany
+///
 module.exports = {
   someSidebar: {
     About: ['what-is-birt','overview-design','overview-architecture','overview-designer','overview-customization','overview-extensibility', 'contributors','bibliography'],

@@ -8,7 +8,7 @@ sidebar_label: Contributors
 
 Companies that are contributing committer's:
 
-[![Compex](/img/Logo-Compex.png 'Compex Systemhaus GmbH, Heidelberg, Germany')](https://www.compex-commerce.com)
+Compex Systemhaus GmbH - https://www.compex-commerce.com 
 
 Innovent Solutions - http://www.innoventsolutions.com/
 

@@ -12,10 +12,9 @@ The BIRT project addresses a wide range of reporting needs. Reporting capabiliti
 
 BIRT is supported by an active community of committers, contributers and users here at Eclipse.org. BIRT is also supported by the Open Standard Business Platform Project (OSBP) and its Open Standard Business Application Working Group (OSbea).
 
-The project is sponsored by Compex Systemhaus GmbH, Heidelberg, Germany, and **$$$---Win and Scott and ??? ---**. BIRT was origanaly initiated and sponsored by Actuate with contributions from IBM, and Innovent Solutions.  It is licensed under the Eclipse Public License (EPL).
+The project is driven by large team of committers and contributors as well as from a large amout of companies. BIRT was origanaly initiated and sponsored by Actuate with contributions from IBM, and Innovent Solutions.  It is licensed under the Eclipse Public License (EPL).
 
-
-[![Compex](/img/Logo-Compex.png 'Compex Systemhaus GmbH, Heidelberg, Germany')](https://www.compex-commerce.com)
+![img](/img/Logo-Compex.png)
 
 ![img](/img/Logo-Innovent-Solution.png)
 
