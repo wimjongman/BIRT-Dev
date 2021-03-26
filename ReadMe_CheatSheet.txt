@@ -2,6 +2,11 @@
 /// Loetz GmbH & Co KG, Heidelberg, Germany
 ///
 
+More docs for Docusaurus
+https://luctst.github.io/docusaurus-starter-pack/docs/homepage.html
+https://cheng.im/using-sidebars-in-docusaurus-pages/ 
+ 
+
 package... dirt-dev mit birt-dev ersetzt
 
 Use:

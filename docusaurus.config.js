@@ -1,18 +1,18 @@
 /// Compex Systemhaus GmbH, Heidelberg, Germany
-/// Loetz GmbH & Co KG
+/// Loetz GmbH & Co KG, Heidelberg, Germany
 ///
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   
   title: 'BIRT',
   tagline: 'Busines Inteligence Reporting Tool',
-  url: 'https://chloetz.github.io',
-  baseUrl: '/BIRT-Dev/',
+  url: 'https://eclipse.github.io.',
+  baseUrl: '/birt-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/BIRT-Icon.ico',
-  organizationName: 'chloetz', // Usually your GitHub org/user name.
-  projectName: 'BIRT-Dev', // Usually your repo name.
+  organizationName: 'eclipse', // Usually your GitHub org/user name.
+  projectName: 'birt-website', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'HOME',
@@ -125,14 +125,14 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            '/',
+            '/https://github.com/chloetz/',
             //https://github.com/chloetz/BIRT-Dev/
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/chloetz/BIRT-Dev/',
+            '/BIRT-Dev/docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
