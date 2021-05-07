@@ -1,4 +1,4 @@
-name: Documentation
+name: BIRT Documentation
 on:
   pull_request:
     branches: [documentation]
